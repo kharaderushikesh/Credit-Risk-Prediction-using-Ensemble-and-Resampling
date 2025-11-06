@@ -19,7 +19,7 @@ To design and evaluate multiple ensemble-based classification models and resampl
 │
 ├── credit_risk_ensemble.py         # Ensemble models pipeline
 ├── credit_risk_resampling.py       # Sampling + Ensemble pipeline
-├── sample_loan_data_200.csv        # Sample dataset (200 records)
+├── loan_data_200.csv        # Sample dataset (200 records)
 ├── cleaned_credit_risk_ensemble.csv
 ├── cleaned_credit_risk_resampling.csv
 └── README.md                       # Project documentation
@@ -109,10 +109,3 @@ To design and evaluate multiple ensemble-based classification models and resampl
 
 💡 **Recommended Deployment:**  
 Use **AdaBoost with SMOTEENN** for practical applications to achieve higher recall and lower false negatives in credit risk detection.
-
----
-
-## 👨‍💻 Author
-**Rushikesh Kharade**  
-*B.Tech in Artificial Intelligence & Data Science*  
-GitHub: [@kharaderushikesh](https://github.com/kharaderushikesh)
